@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-void start()
+private void Start()
 {
-    Debug.Debug.Log("local");
+    Debug.Log("remote not local");
 }
